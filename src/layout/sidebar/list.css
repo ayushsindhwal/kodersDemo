@@ -1,0 +1,11 @@
+.sidebar-lst-itm:hover{
+ color: #007bff;
+ opacity: 1;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .sidebar {
+      display: none;
+    }
+  }
